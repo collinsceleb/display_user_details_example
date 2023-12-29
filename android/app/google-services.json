@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716496781180",
+    "project_id": "display-user-details",
+    "storage_bucket": "display-user-details.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716496781180:android:262d83bed742ec7596eef9",
+        "android_client_info": {
+          "package_name": "com.collinsceleb.display_user_details_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHNViu6jjsRYgMDYa14976soB7XRrhBP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
